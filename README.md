@@ -13,7 +13,7 @@ Samsung SmartTV Player widget for [TV Headend](https://tvheadend.org).
 - Download and install [Samsung 2011 Main SDK (SDK 2.5.1)](http://samsungdforum.com/Devtools/SdkDownload)
 
 - Clone this repo and copy the entire directory into `Program Files (x86)\Samsung\Samsung TV SDK(2.5.1)\Apps` directory
-- Follow [Testing Your Application on a TV for 2011](http://samsungdforum.com/Guide/?FolderName=art00013&FileName=index.html) guide to complete the installation process
+- Follow [Testing Your Application on a TV for 2011](https://developer.samsung.com/tv/develop/legacy-platform-library/art00121/index) guide to complete the installation process
 
 ## What works
 
